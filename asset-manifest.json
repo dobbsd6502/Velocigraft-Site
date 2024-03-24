@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Velocigraft-Site/static/css/main.60d1a991.css",
-    "main.js": "/Velocigraft-Site/static/js/main.c620d158.js",
-    "static/media/SurgicalVideo.mp4": "/Velocigraft-Site/static/media/SurgicalVideo.e1f85eb182fc95a4feee.mp4",
-    "static/media/DalhartHeadshot.jpg": "/Velocigraft-Site/static/media/DalhartHeadshot.79fdfe42e49919150bd4.jpg",
-    "static/media/PareeHeadshot.jpg": "/Velocigraft-Site/static/media/PareeHeadshot.79fdfe42e49919150bd4.jpg",
-    "static/media/ThoyaHeadshot.jpg": "/Velocigraft-Site/static/media/ThoyaHeadshot.79fdfe42e49919150bd4.jpg",
-    "static/media/AshleyHeadshot.jpg": "/Velocigraft-Site/static/media/AshleyHeadshot.12b11f3f02cef76ec928.jpg",
-    "static/media/JoanneHeadshot.jpg": "/Velocigraft-Site/static/media/JoanneHeadshot.ee2b133bb6be8342f086.jpg",
-    "static/media/VelocigraftLogoTransparent.png": "/Velocigraft-Site/static/media/VelocigraftLogoTransparent.6887e27ad07863fc8067.png",
-    "static/media/AdityaHeadshot.jpg": "/Velocigraft-Site/static/media/AdityaHeadshot.d6451d4f8acfcac9479c.jpg",
-    "static/media/AarushiHeadshot.jpg": "/Velocigraft-Site/static/media/AarushiHeadshot.b600cca98e9ae6d8d3c5.jpg",
-    "static/media/VelocigraftLogo.png": "/Velocigraft-Site/static/media/VelocigraftLogo.5551b03e1edbb6c92c3d.png",
-    "static/media/ChristineHeadshot.jpg": "/Velocigraft-Site/static/media/ChristineHeadshot.92c507f0d5756c347ec2.jpg",
-    "static/media/OjasHeadshot.jpg": "/Velocigraft-Site/static/media/OjasHeadshot.f8167aea62995c700c79.jpg",
-    "static/media/Rice360Logo.jpg": "/Velocigraft-Site/static/media/Rice360Logo.898c53b9b865c3835267.jpg",
-    "static/media/CBIDLogo.jpg": "/Velocigraft-Site/static/media/CBIDLogo.a1372e1074286ae7ee3d.jpg",
-    "index.html": "/Velocigraft-Site/index.html",
-    "main.60d1a991.css.map": "/Velocigraft-Site/static/css/main.60d1a991.css.map",
-    "main.c620d158.js.map": "/Velocigraft-Site/static/js/main.c620d158.js.map"
+    "main.css": "/static/css/main.bbd47f7a.css",
+    "main.js": "/static/js/main.da596e37.js",
+    "static/media/SurgicalVideo.mp4": "/static/media/SurgicalVideo.e1f85eb182fc95a4feee.mp4",
+    "static/media/DalhartHeadshot.jpg": "/static/media/DalhartHeadshot.79fdfe42e49919150bd4.jpg",
+    "static/media/PareeHeadshot.jpg": "/static/media/PareeHeadshot.79fdfe42e49919150bd4.jpg",
+    "static/media/ThoyaHeadshot.jpg": "/static/media/ThoyaHeadshot.79fdfe42e49919150bd4.jpg",
+    "static/media/AshleyHeadshot.jpg": "/static/media/AshleyHeadshot.12b11f3f02cef76ec928.jpg",
+    "static/media/JoanneHeadshot.jpg": "/static/media/JoanneHeadshot.ee2b133bb6be8342f086.jpg",
+    "static/media/VelocigraftLogoTransparent.png": "/static/media/VelocigraftLogoTransparent.6887e27ad07863fc8067.png",
+    "static/media/AdityaHeadshot.jpg": "/static/media/AdityaHeadshot.d6451d4f8acfcac9479c.jpg",
+    "static/media/AarushiHeadshot.jpg": "/static/media/AarushiHeadshot.b600cca98e9ae6d8d3c5.jpg",
+    "static/media/VelocigraftLogo.png": "/static/media/VelocigraftLogo.5551b03e1edbb6c92c3d.png",
+    "static/media/ChristineHeadshot.jpg": "/static/media/ChristineHeadshot.92c507f0d5756c347ec2.jpg",
+    "static/media/OjasHeadshot.jpg": "/static/media/OjasHeadshot.f8167aea62995c700c79.jpg",
+    "static/media/Rice360Logo.jpg": "/static/media/Rice360Logo.898c53b9b865c3835267.jpg",
+    "static/media/CBIDLogo.jpg": "/static/media/CBIDLogo.a1372e1074286ae7ee3d.jpg",
+    "index.html": "/index.html",
+    "main.bbd47f7a.css.map": "/static/css/main.bbd47f7a.css.map",
+    "main.da596e37.js.map": "/static/js/main.da596e37.js.map"
   },
   "entrypoints": [
-    "static/css/main.60d1a991.css",
-    "static/js/main.c620d158.js"
+    "static/css/main.bbd47f7a.css",
+    "static/js/main.da596e37.js"
   ]
 }
