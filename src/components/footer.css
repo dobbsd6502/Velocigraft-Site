@@ -1,0 +1,53 @@
+/* FILEPATH: /Users/dalhartdobbs/websites/velocigraft-site/src/components/footer.css */
+
+.footer {
+    background-color: #f8f8f8;
+    padding: 40px 0;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.column {
+    flex: 1;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.column:first-child {
+    align-items: flex-start; /* Left align items in the first column */
+}
+
+.column:nth-child(2) {
+    align-items: center; /* Center align items in the second column */
+}
+
+.column:last-child {
+    align-items: flex-end; /* Right align items in the last column */
+}
+
+.socialIcons {
+    display: flex;
+    margin-top: 10px;
+}
+
+.icon {
+    color: #333;
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.bottomBar {
+    background-color: #eee;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+}
