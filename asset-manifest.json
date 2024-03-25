@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/www.velocigraft.com/static/css/main.c5333289.css",
-    "main.js": "/www.velocigraft.com/static/js/main.86ae5b4f.js",
+    "main.js": "/www.velocigraft.com/static/js/main.d2cc8db7.js",
     "static/media/SurgicalVideo.mp4": "/www.velocigraft.com/static/media/SurgicalVideo.e1f85eb182fc95a4feee.mp4",
     "static/media/DalhartHeadshot.jpg": "/www.velocigraft.com/static/media/DalhartHeadshot.79fdfe42e49919150bd4.jpg",
     "static/media/PareeHeadshot.jpg": "/www.velocigraft.com/static/media/PareeHeadshot.79fdfe42e49919150bd4.jpg",
@@ -18,10 +18,10 @@
     "static/media/CBIDLogo.jpg": "/www.velocigraft.com/static/media/CBIDLogo.a1372e1074286ae7ee3d.jpg",
     "index.html": "/www.velocigraft.com/index.html",
     "main.c5333289.css.map": "/www.velocigraft.com/static/css/main.c5333289.css.map",
-    "main.86ae5b4f.js.map": "/www.velocigraft.com/static/js/main.86ae5b4f.js.map"
+    "main.d2cc8db7.js.map": "/www.velocigraft.com/static/js/main.d2cc8db7.js.map"
   },
   "entrypoints": [
     "static/css/main.c5333289.css",
-    "static/js/main.86ae5b4f.js"
+    "static/js/main.d2cc8db7.js"
   ]
 }
