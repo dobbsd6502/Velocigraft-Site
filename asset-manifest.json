@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c32c403.css",
-    "main.js": "/static/js/main.929ab7c5.js",
+    "main.css": "/static/css/main.3b5c9dee.css",
+    "main.js": "/static/js/main.68808cf3.js",
     "static/media/SurgicalVideo.mp4": "/static/media/SurgicalVideo.e1f85eb182fc95a4feee.mp4",
+    "static/media/TeamPhoto.jpg": "/static/media/TeamPhoto.3ab9d481d62d1c353691.jpg",
     "static/media/AshleyHeadshot.jpg": "/static/media/AshleyHeadshot.12b11f3f02cef76ec928.jpg",
     "static/media/JoanneHeadshot.jpg": "/static/media/JoanneHeadshot.ee2b133bb6be8342f086.jpg",
     "static/media/ThoyaHeadshot.jpg": "/static/media/ThoyaHeadshot.0026fe91863634aca344.jpg",
@@ -14,14 +15,15 @@
     "static/media/ChristineHeadshot.jpg": "/static/media/ChristineHeadshot.92c507f0d5756c347ec2.jpg",
     "static/media/DalhartHeadshot.jpg": "/static/media/DalhartHeadshot.d6588c2bc82186f16756.jpg",
     "static/media/OjasHeadshot.jpg": "/static/media/OjasHeadshot.f8167aea62995c700c79.jpg",
+    "static/media/HopstartLogo.jpg": "/static/media/HopstartLogo.214be4d368423abd27f1.jpg",
     "static/media/CBIDLogo.jpg": "/static/media/CBIDLogo.c1ee95a59f8221a1d82b.jpg",
     "static/media/Rice360Logo.jpg": "/static/media/Rice360Logo.ff2bb286749ef840b12e.jpg",
     "index.html": "/index.html",
-    "main.9c32c403.css.map": "/static/css/main.9c32c403.css.map",
-    "main.929ab7c5.js.map": "/static/js/main.929ab7c5.js.map"
+    "main.3b5c9dee.css.map": "/static/css/main.3b5c9dee.css.map",
+    "main.68808cf3.js.map": "/static/js/main.68808cf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c32c403.css",
-    "static/js/main.929ab7c5.js"
+    "static/css/main.3b5c9dee.css",
+    "static/js/main.68808cf3.js"
   ]
 }
